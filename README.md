@@ -1,6 +1,6 @@
 ## flywheel_cad  
 
-CAD designs for the flywheel fruit fly treadmill project.  
+CAD designs for the flywheel fruit fly treadmill project.
 
 
 ###  flywheel_SMM_D1001B
